@@ -1,17 +1,9 @@
-title: Business Central Dokumentacija
-description: Detaljno uputstvo za korišćenje dodatka za brzu poštu
-theme: just-the-docs
+title: Dokumentacija
+description: Dokumentacija projekta
+theme: jekyll-theme-minimal
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 search_enabled: true
-nav_external_links:
-  - title: GitHub
-    url: https://github.com/vasekorisnickoime/bc-docs
-    hide_icon: false
 aux_links:
-  "BC Docs na GitHub-u":
-    - "//github.com/vasekorisnickoime/bc-docs"
-aux_links_new_tab: true
-heading_anchors: true
-back_to_top: true
-back_to_top_text: "Nazad na vrh"
-footer_content: "Copyright &copy; 2024 Vaša Kompanija."
+  "GitHub":
+    - "//github.com/Anica01/test5"
